@@ -3,6 +3,10 @@
 ## BASE URL KOYEB DEPLOY
 https://romantic-betti-synrgyacademy-deed654f.koyeb.app/
 
+## BASE URL Local
+```
+http://localhost:(PORT)
+```
 ## API Documentation with swagger
 ```
 http://localhost:(PORT)/api-docs/
