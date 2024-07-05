@@ -10,13 +10,10 @@
   },
   "servers": [
     {
-      "url1": "http://localhost:8000"
+      "url": "http://localhost:8000"
     },
     {
-      "url2": "http://localhost:3000"
-    },
-    {
-      "deploy": "https://romantic-betti-synrgyacademy-deed654f.koyeb.app"
+      "url": "https://imperial-madella-synrgyacademy-a147137b.koyeb.app"
     }
   ],
   "components": {
