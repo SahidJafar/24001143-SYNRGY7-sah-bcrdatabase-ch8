@@ -1,7 +1,7 @@
 # Challenge Chapter 8
 
 ## Front-end :
-https://github.com/SahidJafar/24001143-SYNRGY7-sah-bcrdatabase-ch8
+https://github.com/SahidJafar/24001143-synrgy7-sahid-bcrfrontend-ch8.git
 
 
 ## BASE URL Local
