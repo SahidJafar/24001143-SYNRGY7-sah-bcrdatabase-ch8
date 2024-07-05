@@ -41,3 +41,20 @@ $ npm run start # run in development mode
 $ npm run migrate # migrate database
 $ npm run seed # seeder database
 ```
+
+## Access Autentikasi:
+1. Superadmin
+``
+email:superadmin1@gmail.com
+password:superadmin1
+``
+2. Admin
+``
+email:admin1@gmail.com
+password:admin1password
+``
+3. Member
+``
+email:member1@gmail.com
+password:member1password
+``
