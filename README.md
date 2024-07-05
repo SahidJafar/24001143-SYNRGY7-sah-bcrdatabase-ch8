@@ -1,12 +1,8 @@
 # Challenge Chapter 8
 
 ## Front-end :
-``
 https://github.com/SahidJafar/24001143-SYNRGY7-sah-bcrdatabase-ch8
-``
 
-## BASE URL KOYEB DEPLOY
-https://romantic-betti-synrgyacademy-deed654f.koyeb.app/
 
 ## BASE URL Local
 ```
